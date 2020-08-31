@@ -719,7 +719,7 @@ section.lazy-placeholder:after {
 }
 .cid-s4UnGkfSC3 H1 {
   text-align: left;
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-s4UoosiD3j {
   padding-top: 90px;
@@ -812,6 +812,15 @@ section.lazy-placeholder:after {
   display: flex;
   flex-direction: column-reverse;
 }
+.cid-s4UoosiD3j .mbr-section-title {
+  color: #232323;
+}
+.cid-s4UoosiD3j .mbr-timeline-title {
+  color: #232323;
+}
+.cid-s4UoosiD3j .mbr-timeline-text {
+  color: #232323;
+}
 .cid-s4Uz9LWknx {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -849,6 +858,15 @@ section.lazy-placeholder:after {
 }
 .cid-s4Uz9LWknx .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
+}
+.cid-s4Uz9LWknx H2 {
+  color: #232323;
+}
+.cid-s4Uz9LWknx H4 {
+  color: #232323;
+}
+.cid-s4Uz9LWknx .panel-text {
+  color: #767676;
 }
 .cid-s9f4WbFhGe .navbar {
   background: #ffffff;
